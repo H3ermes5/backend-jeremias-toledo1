@@ -1,15 +1,15 @@
 {
-  "name": "entrega1",
+  "name": "nombre_de_tu_proyecto",
   "version": "1.0.0",
-  "description": "Jeremias Toledo - Primera entrega 1",
+  "description": "Descripción de tu proyecto",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js"
   },
-  "author": "",
+  "keywords": [],
+  "author": "Tu Nombre",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
-  },
-  "keywords": []
+    "express": "^4.17.1"
+  }
 }
